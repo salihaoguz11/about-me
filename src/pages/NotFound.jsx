@@ -1,8 +1,10 @@
+import Div from "../components/styles/NotFound.styled";
+
 const NotFound = () => {
   return (
-    <div>
-      <h6>Not Found</h6>
-    </div>
+    <Div>
+      <img src="./img/404.png" alt="notfound" />
+    </Div>
   );
 };
 
