@@ -2,7 +2,6 @@ import styled from "styled-components";
 
 export const Div = styled.div`
   background-color: #b4cf66;
-
   width: 100%;
   height: 100px;
   display: flex;

@@ -23,6 +23,6 @@ export const Button = styled.button`
 export const A = styled.a`
   color: white;
   text-decoration: none;
-  font-size: 1.5 rem;
+  font-size: 1.5rem;
   /* ... */
 `;
