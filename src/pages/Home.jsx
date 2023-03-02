@@ -1,8 +1,11 @@
+import Div from "../components/styles/Home.styled";
+
 const Home = () => {
   return (
-    <div>
-      <h3>Home</h3>
-    </div>
+    <Div>
+      <h1>SALIHA OGUZ</h1>
+      <h3>FRONTEND DEVELOPER</h3>
+    </Div>
   );
 };
 
