@@ -1,5 +1,4 @@
 import Div from "../components/styles/NotFound.styled";
-
 const NotFound = () => {
   return (
     <Div>
