@@ -17,7 +17,10 @@ export const Button = styled.button`
   background-color: #ff5a33;
   border: none;
   cursor: pointer;
-  /* ... */
+  &:hover {
+    transition: all 1s ease;
+    transform: scale(1.1);
+  }
 `;
 
 export const A = styled.a`
