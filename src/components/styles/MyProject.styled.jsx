@@ -13,6 +13,7 @@ export const Div = styled.div`
 export const Button = styled.button`
   padding: 2rem;
   border-radius: 0.5rem;
+  width: 20rem;
   background-color: #ff5a33;
   border: none;
   cursor: pointer;
