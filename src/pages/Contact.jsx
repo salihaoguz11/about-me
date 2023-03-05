@@ -3,7 +3,7 @@ import { A, Button, Div } from "../components/styles/Contact.styled";
 const Contact = () => {
   return (
     <Div>
-      <Button>
+      <Button primary>
         <A href="https://github.com/salihaoguz11" target="_blank">
           github
         </A>

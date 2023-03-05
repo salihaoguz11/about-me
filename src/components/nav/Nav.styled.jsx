@@ -12,8 +12,7 @@ export const Div = styled.div`
 export const Links = styled(Link)`
   text-decoration: none;
   cursor: pointer;
-  transform: scale(1.1);
-  transition: all 3s;
+
   &:hover {
     color: #ff5a33;
 
